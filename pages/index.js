@@ -25,7 +25,16 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          Hi! I'm Jovi, driven by a passion for uncovering insights through data. Outside of analytical work, I enjoy playing video games, watching movies, listening to music, and reading novels. My current favorite track is <em>Sky Walker</em> by Miguel ft. Travis Scott, and I'll never pass up a plate of Chicken Curry. Over the next 5 years, I aim to advance into a lead Data Analyst role driving impactful, data-driven decisions.
+          Hi! I'm Jovi, driven by a passion for uncovering insights through data.
+          Outside of analytical work, I enjoy playing video games, watching movies,
+          listening to music, and reading novels. My current favorite track is
+          <em> Sky Walker </em> by Miguel ft. Travis Scott, and I'll never pass up
+          a plate of Chicken Curry. Over the next 5 years, I aim to advance into a
+          lead Data Analyst role driving impactful, data-driven decisions.
+        </p>
+
+        <p>
+          (This is a sample website - you’ll be building a site like this on our Next.js tutorial.)
         </p>
       </main>
     </div>
