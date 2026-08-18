@@ -34,7 +34,15 @@ export default function Home() {
         </p>
 
         <p>
-          (This is a sample website - you’ll be building a site like this on our Next.js tutorial.)
+          (This is a sample website - you'll be building a site like this on our{' '}
+          <a
+            href="https://nextjs.org/learn"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Next.js tutorial
+          </a>
+          .)
         </p>
       </main>
     </div>
