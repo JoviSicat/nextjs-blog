@@ -11,7 +11,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <img
-          src="/jovpic.jpg"
+          src="/images
+            /jovpic.jpg"
           alt="Jovi Sicat"
           className={styles.profile}
         />
